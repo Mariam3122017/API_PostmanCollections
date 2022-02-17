@@ -1,0 +1,61 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "title": "Cheese Lovers Pizza",
+      "description": "A special blend of cheese"
+    },
+    {
+      "id": 2,
+      "title": "Chicken Shawerma Sandwich",
+      "description": " Chicken Shawerma with pickeles and tomya"
+    },
+    {
+      "id": 3,
+      "title": "French Fries",
+      "description": "French Fries with cheese sause"
+    },
+    {
+      "title": "Big Testy combo",
+      "descreption": "chicken Sandwich with french fries and pepsi",
+      "id": 4
+    },
+    {
+      "title": "Big Testy combo",
+      "descreption": "chicken Sandwich with french fries and pepsi",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$DgZiHyRFXbtu5yPtkgZ4MOU1k.geQy3jCjB3K1rckptbgW5Mo0k5S",
+      "id": 1
+    },
+    {
+      "email": "marianm@mail.com",
+      "password": "$2a$10$OoOPkiW14MtL3Cn1o0.xUe31X6krBK.IoHLHtWYJrSqUNvIVceLqu",
+      "id": 2
+    },
+    {
+      "email": "mariam@email.com",
+      "password": "$2a$10$KHDc2pegHEnSytzbMo9ExejHmw00cbFtJRL6uO7hUCroLNRzS9pn6",
+      "id": 3
+    },
+    {
+      "email": "QAtest@email.com",
+      "password": "$2a$10$QLUIJ4qDdafl/bSc8dS33um.EwsAB6Kk77axssdcw.UYQvt.ZTpoy",
+      "id": 4
+    },
+    {
+      "email": "QA&test@email.com",
+      "password": "$2a$10$AmRfiWRht2sKPx2VlpgCQ.v2xd1KqUn.aIir7psO1zg1yQc.1DnJG",
+      "id": 5
+    },
+    {
+      "email": "shimaa&esraa@email.com",
+      "password": "$2a$10$8yQ9iJNvcm1fetxrsYmJVeThAOfS7wPEnvwOmioXrT/3TxMXVVTCC",
+      "id": 6
+    }
+  ]
+}
